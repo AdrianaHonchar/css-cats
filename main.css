@@ -12,8 +12,8 @@ body {
 .header {
   padding: 80px;
   text-align: center;
-  background: red;
-  color: black;
+  background: black;
+  color: white;
 }
 
 /* Increase the font size of the heading */
